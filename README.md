@@ -34,8 +34,8 @@ vim pattern_bug_report.txt
 8. Actual Result
 9. Expected Result
 10. Additional Information
-#  ESC 
-#  :wq
+  ESC 
+  :wq
 Запушить структуру багрепорта на внешний репозиторий
 git add .
 git commit -m "bug report"
@@ -50,13 +50,13 @@ git push
 В ветке CheckLists набросать структуру чек листа.
 git checkout CheckList
 vim pattern_checklist.txt
-#  перехожу в режим редактирования (I) и прописываю
+  перехожу в режим редактирования (I) и прописываю
 1. ID
 2. Tester Action
 3. Actual Result
 4. Comment
-#  ESC 
-#  :wq
+  ESC 
+  :wq
 Запушить структуру на внешний репозиторий
 git add .
 git commit -m "checlistt"
