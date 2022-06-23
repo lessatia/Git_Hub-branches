@@ -5,6 +5,6 @@
 5. Severity
 6. Priority
 7. Steps to Reproduce
-8. Actual Result
+8. Actual Result 
 9. Expected Result
 10. Additional Information
