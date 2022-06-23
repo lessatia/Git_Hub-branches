@@ -21,7 +21,9 @@ git push -u --all
 В ветке Bag Reports сделать текстовый документ со структурой баг репорта
 git checkout Bug_Reports
 vim pattern_bug_report.txt
-#  перехожу в режим редактирования (I) и прописываю 
+
+
+ перехожу в режим редактирования (I) и прописываю 
 1. Summary
 2. Project
 3. Component
